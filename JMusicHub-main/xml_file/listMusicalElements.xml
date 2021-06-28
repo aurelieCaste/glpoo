@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Michael Jackson</string>
+    </void>
+    <void property="content">
+     <string>girlfriend.mp3</string>
+    </void>
+    <void property="duration">
+     <int>185</int>
+    </void>
+    <void property="genre">
+     <object class="java.lang.Enum" id="Genre0" method="valueOf">
+      <class>Genre</class>
+      <string>POP</string>
+     </object>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="title">
+     <string>Girlfriend</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Michael Jackson</string>
+    </void>
+    <void property="content">
+     <string>i-cant-help-it.mp3</string>
+    </void>
+    <void property="duration">
+     <int>269</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre0"/>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="title">
+     <string>I Can&apos;t Help It</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Michael Jackson</string>
+    </void>
+    <void property="content">
+     <string>get-on-the-floor.mp3</string>
+    </void>
+    <void property="duration">
+     <int>278</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre0"/>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="title">
+     <string>Get on the Floor</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Michael Jackson</string>
+    </void>
+    <void property="content">
+     <string>dont-stop-til-you-get-enough.mp3</string>
+    </void>
+    <void property="duration">
+     <int>365</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre0"/>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="title">
+     <string>Don&apos;t Stop &apos;Til You Get Enough</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Ninho</string>
+    </void>
+    <void property="content">
+     <string>mac11.mp3</string>
+    </void>
+    <void property="duration">
+     <int>164</int>
+    </void>
+    <void property="genre">
+     <object class="java.lang.Enum" id="Genre1" method="valueOf">
+      <class>Genre</class>
+      <string>RAP</string>
+     </object>
+    </void>
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="title">
+     <string>Mac 11</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Ninho</string>
+    </void>
+    <void property="content">
+     <string>kitchen.mp3</string>
+    </void>
+    <void property="duration">
+     <int>239</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre1"/>
+    </void>
+    <void property="id">
+     <int>6</int>
+    </void>
+    <void property="title">
+     <string>Kitchen</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Ninho</string>
+    </void>
+    <void property="content">
+     <string>intro.mp3</string>
+    </void>
+    <void property="duration">
+     <int>204</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre1"/>
+    </void>
+    <void property="id">
+     <int>7</int>
+    </void>
+    <void property="title">
+     <string>Intro</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Ninho</string>
+    </void>
+    <void property="content">
+     <string>zipette.mp3</string>
+    </void>
+    <void property="duration">
+     <int>191</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre1"/>
+    </void>
+    <void property="id">
+     <int>8</int>
+    </void>
+    <void property="title">
+     <string>Zipette</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Ninho</string>
+    </void>
+    <void property="content">
+     <string>mauvais-djo.mp3</string>
+    </void>
+    <void property="duration">
+     <int>198</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre1"/>
+    </void>
+    <void property="id">
+     <int>9</int>
+    </void>
+    <void property="title">
+     <string>Mauvais Djo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Ninho</string>
+    </void>
+    <void property="content">
+     <string>rap.mp3</string>
+    </void>
+    <void property="duration">
+     <int>210</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre1"/>
+    </void>
+    <void property="id">
+     <int>10</int>
+    </void>
+    <void property="title">
+     <string>C&apos;était le rap</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Beyonce</string>
+    </void>
+    <void property="content">
+     <string>halo.mp3</string>
+    </void>
+    <void property="duration">
+     <int>261</int>
+    </void>
+    <void property="genre">
+     <object class="java.lang.Enum" id="Genre2" method="valueOf">
+      <class>Genre</class>
+      <string>HIPHOP</string>
+     </object>
+    </void>
+    <void property="id">
+     <int>11</int>
+    </void>
+    <void property="title">
+     <string>Halo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Beyonce</string>
+    </void>
+    <void property="content">
+     <string>formation.mp3</string>
+    </void>
+    <void property="duration">
+     <int>251</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre0"/>
+    </void>
+    <void property="id">
+     <int>12</int>
+    </void>
+    <void property="title">
+     <string>Formation</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>Hervé Le Tellier</string>
+    </void>
+    <void property="category">
+     <object class="java.lang.Enum" id="Category0" method="valueOf">
+      <class>Category</class>
+      <string>ROMAN</string>
+     </object>
+    </void>
+    <void property="content">
+     <string>l-anomalie.mp3</string>
+    </void>
+    <void property="duration">
+     <int>40000</int>
+    </void>
+    <void property="id">
+     <int>13</int>
+    </void>
+    <void property="language">
+     <object class="java.lang.Enum" id="Language0" method="valueOf">
+      <class>Language</class>
+      <string>FRANCAIS</string>
+     </object>
+    </void>
+    <void property="title">
+     <string>L&apos;anomalie</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>Barack Obama</string>
+    </void>
+    <void property="category">
+     <object class="java.lang.Enum" id="Category1" method="valueOf">
+      <class>Category</class>
+      <string>DOCUMENTAIRE</string>
+     </object>
+    </void>
+    <void property="content">
+     <string>une-terre-promise.mp3</string>
+    </void>
+    <void property="duration">
+     <int>41540</int>
+    </void>
+    <void property="id">
+     <int>14</int>
+    </void>
+    <void property="language">
+     <object class="java.lang.Enum" id="Language1" method="valueOf">
+      <class>Language</class>
+      <string>ANGLAIS</string>
+     </object>
+    </void>
+    <void property="title">
+     <string>Une terre promise</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>Charley Guinet</string>
+    </void>
+    <void property="category">
+     <object idref="Category1"/>
+    </void>
+    <void property="content">
+     <string>acdoi.mp3</string>
+    </void>
+    <void property="duration">
+     <int>3200</int>
+    </void>
+    <void property="id">
+     <int>15</int>
+    </void>
+    <void property="language">
+     <object idref="Language0"/>
+    </void>
+    <void property="title">
+     <string>Au coeur de l&apos;ouragan Irma</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>William Shakespeare</string>
+    </void>
+    <void property="category">
+     <object class="java.lang.Enum" id="Category2" method="valueOf">
+      <class>Category</class>
+      <string>THEATRE</string>
+     </object>
+    </void>
+    <void property="content">
+     <string>amnd.mp3</string>
+    </void>
+    <void property="duration">
+     <int>4800</int>
+    </void>
+    <void property="id">
+     <int>16</int>
+    </void>
+    <void property="language">
+     <object idref="Language1"/>
+    </void>
+    <void property="title">
+     <string>A Midsummer Night&apos;s Dream</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>Carmen Martin Gaite</string>
+    </void>
+    <void property="category">
+     <object idref="Category0"/>
+    </void>
+    <void property="content">
+     <string>manat.mp3</string>
+    </void>
+    <void property="duration">
+     <int>18495</int>
+    </void>
+    <void property="id">
+     <int>17</int>
+    </void>
+    <void property="language">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>Language</class>
+      <string>ESPAGNOL</string>
+     </object>
+    </void>
+    <void property="title">
+     <string>Caperucita en manhattan</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Luis Fonsi</string>
+    </void>
+    <void property="content">
+     <string>despacito.mp3</string>
+    </void>
+    <void property="duration">
+     <int>352</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre2"/>
+    </void>
+    <void property="id">
+     <int>18</int>
+    </void>
+    <void property="title">
+     <string>Despacito</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Enrique Iglesias</string>
+    </void>
+    <void property="content">
+     <string>bailando.mp3</string>
+    </void>
+    <void property="duration">
+     <int>168</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre0"/>
+    </void>
+    <void property="id">
+     <int>19</int>
+    </void>
+    <void property="title">
+     <string>Bailando</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>Johan Wolfgang</string>
+    </void>
+    <void property="category">
+     <object idref="Category2"/>
+    </void>
+    <void property="content">
+     <string>faust.mp3</string>
+    </void>
+    <void property="duration">
+     <int>12548</int>
+    </void>
+    <void property="id">
+     <int>20</int>
+    </void>
+    <void property="language">
+     <object class="java.lang.Enum" id="Language2" method="valueOf">
+      <class>Language</class>
+      <string>ALLEMAND</string>
+     </object>
+    </void>
+    <void property="title">
+     <string>Faust</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="AudioBook">
+    <void property="author">
+     <string>Franz Kafka</string>
+    </void>
+    <void property="category">
+     <object idref="Category0"/>
+    </void>
+    <void property="content">
+     <string>metamorph.mp3</string>
+    </void>
+    <void property="duration">
+     <int>22598</int>
+    </void>
+    <void property="id">
+     <int>21</int>
+    </void>
+    <void property="language">
+     <object idref="Language2"/>
+    </void>
+    <void property="title">
+     <string>La métamorphose</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Song">
+    <void property="artist">
+     <string>Saïd BELHADJ</string>
+    </void>
+    <void property="content">
+     <string>ciel.mp3</string>
+    </void>
+    <void property="duration">
+     <int>360</int>
+    </void>
+    <void property="genre">
+     <object idref="Genre2"/>
+    </void>
+    <void property="id">
+     <int>20</int>
+    </void>
+    <void property="title">
+     <string>Ciel</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
